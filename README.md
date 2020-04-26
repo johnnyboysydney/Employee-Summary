@@ -1,5 +1,7 @@
 # Employe-Summary
 
+:computer:
+
 ## Description
 
 This application generates a web page of a company or project team. The web page that is generated displays an the employee summary portal, which includes the following:
@@ -60,4 +62,4 @@ To my 2 sons, who give me the power I need to keep going.
 
 ***
 
-Copyright &copy; John Merchan :australia:
+Copyright &copy; John Merchan    :australia:

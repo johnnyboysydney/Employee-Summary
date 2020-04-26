@@ -6,6 +6,7 @@ const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
 const employeeList = [];
+let isThereAManager = false;
 
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
@@ -33,7 +34,13 @@ inquirer
             addEngineer();
         } 
         else if(answers.jobType === "Manager"){
-            addManager();
+            if (isThereAManager === false) {
+                isThereAManager = true;
+                addManager();
+            } else {
+                console.log("A manager has already been assigned.  Please try again.");
+                start();
+            }
         }
         else if(answers.jobType === "Intern"){
             addIntern();

@@ -2,6 +2,18 @@
 
 :computer:
 
+## Table of Content
+
+- [Description](#description)
+- [Development](#development)
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+- [Built With](#built-with)
+- [Questions](#questions)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [CopyRight](#copyright)
+
 ## Description
 
 This application generates a web page of a company or project team. The web page that is generated displays an the employee summary portal, which includes the following:
@@ -48,9 +60,36 @@ To use this application:
 
 * There is a style.css file included for basic initial stykling, Use your own design
 
+### Dependencies
+
+- FS
+- Color
+- Inquirer
+
 ## Tests performed
 
 ![Capture](https://user-images.githubusercontent.com/54227198/80297068-3ec9b380-87c3-11ea-80b5-ced619dfd0f8.JPG)
+
+
+### Built With
+
+* [VScode](https://code.visualstudio.com/) - The editor of choice
+* [Notepad++](https://notepad-plus-plus.org/) - My second editor
+* [Gitbash](https://gitforwindows.org/) - What would we do without our bash?
+
+### Questions
+
+1. How can I run the application?  
+You just need to run node index.js from your terminal console in the file directory
+
+2. What if I get an error?  
+Ensure that you have install all the dependencies required for this to work. See Dependencies section
+
+3. Can I modify the CSS file?
+Yes, you can modify the layout as you wish
+
+4. What If I make a mistake during the input?
+You can run the applicaiton again and it will overwrite the output.html file, or you can edit it manually
 
 ### Working App
 
@@ -64,13 +103,19 @@ To use this application:
 
 [GNU General Public License v3.0](./LICENSE)
 
-### Acknowledgedments
+### Authors
+
+* **John Merchan** 
+
+### Acknowledgments
 
 To my 2 sons, who give me the power I need to keep going.
 
 ***
 
-Copyright &copy; John Merchan
+#### Copyright
+
+Copyright 2020 &copy; John Merchan
 
 :australia:
 

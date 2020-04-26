@@ -62,4 +62,6 @@ To my 2 sons, who give me the power I need to keep going.
 
 ***
 
-Copyright &copy; John Merchan    :australia:
+Copyright &copy; John Merchan
+
+:australia:

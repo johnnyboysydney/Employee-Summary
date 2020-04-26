@@ -1,0 +1,42 @@
+/* Styling the HTMl */
+
+body {
+    width: 100%;
+    
+    background-image: url(../img/dark-background-with-golden-abstract-shapes_52683-21967.jpg);
+    background-repeat: round;
+    background-size: auto;
+}
+
+.jumbotron {
+    background-color:  #423940;
+    color: #ffffff;
+    font-weight: 800!important;
+}
+
+.card {
+    margin: 10px;
+    background-color:  #423940;
+}
+
+.card-header {
+    color: #ffffff;
+}
+
+.list-group-item {
+    background-color: gray;
+    color: #ffffff;
+}
+
+.list-group-item a {
+    color: #ffffff;
+}
+
+.team-area {
+    display: inline-block;
+    flex-wrap: wrap;
+}
+#manager {
+    margin-right: 75%;
+    flex: content;
+}

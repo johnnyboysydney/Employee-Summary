@@ -10,6 +10,7 @@
 - [Dependencies](#dependencies)
 - [Built With](#built-with)
 - [Questions](#questions)
+- [Demo](#demo)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [CopyRight](#copyright)
@@ -91,8 +92,9 @@ Yes, you can modify the layout as you wish
 4. What If I make a mistake during the input?
 You can run the applicaiton again and it will overwrite the output.html file, or you can edit it manually
 
-### Working App
+### Demo
 
+![Demo](./demo/demo1.gif)
 ![screnshot2](https://user-images.githubusercontent.com/54227198/80301512-f2449f00-87e7-11ea-8a83-4e06b1e12c95.jpg)
 ![screnshot3](https://user-images.githubusercontent.com/54227198/80301514-f2dd3580-87e7-11ea-951d-ae09ca772f6f.jpg)
 ![screnshot4](https://user-images.githubusercontent.com/54227198/80301515-f375cc00-87e7-11ea-8444-c4d13aed1a46.jpg)

@@ -8,6 +8,7 @@
 - [Development](#development)
 - [Installation](#installation)
 - [Dependencies](#dependencies)
+- [Tests](#tests)
 - [Built With](#built-with)
 - [Questions](#questions)
 - [Demo](#demo)
@@ -67,8 +68,9 @@ To use this application:
 - Color
 - Inquirer
 
-## Tests performed
+## Tests
 
+To run the tests type in the console ```npm run test```
 ![Capture](https://user-images.githubusercontent.com/54227198/80297068-3ec9b380-87c3-11ea-80b5-ced619dfd0f8.JPG)
 
 

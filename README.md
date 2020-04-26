@@ -1,10 +1,6 @@
 # Employe-Summary
 
-***
-
 ## Description
-
-***
 
 This application generates a web page of a company or project team. The web page that is generated displays an the employee summary portal, which includes the following:
 
@@ -36,11 +32,9 @@ To use this application:
 
 * Clone the GitHub repository at: https://github.com/johnnyboysydney/Employee-Summary/
 
-* Install node
+* All the packages are already included
 
-* From terminal (Mac) or Bash command line (Windows), run ```npm install node```
-
-* To automatically install dev dependencies, run ```npm i"```
+* If you are missing a package, download it from terminal (Mac) or Bash command line (Windows), run ```npm install node```, ```npm install inquirer```, ```npm install fs``` & ```npm install color```
 
 * The application itself runs from the command line, run "node app.js"
 
@@ -50,8 +44,20 @@ To use this application:
 
 * The resulting html file appears in an output directory as output.html
 
+* There is a style.css file included for basic initial stykling, Use your own design
+
 ## Tests performed
 
 ![Capture](https://user-images.githubusercontent.com/54227198/80297068-3ec9b380-87c3-11ea-80b5-ced619dfd0f8.JPG)
 
 ### License
+
+[GNU General Public License v3.0](./LICENSE)
+
+### Acknowledgedments
+
+To my 2 sons, who give me the power I need to keep going.
+
+***
+
+Copyright &copy; John Merchan :australia:
